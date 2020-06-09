@@ -1,5 +1,8 @@
-# Emoji
-All Emoji collection
+# Emoji [Download Json](https://raw.githubusercontent.com/Katheesh/Emoji/master/emoji.json)
+
+### All Emojis collection
+
+```json
 {
   "100": "💯",
   "1234": "🔢",
@@ -1482,3 +1485,4 @@ All Emoji collection
   "zambia": "🇿🇲",
   "zimbabwe": "🇿🇼"
 }
+```
