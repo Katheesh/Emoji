@@ -1,0 +1,2 @@
+# Emoji
+All Emoji collection
