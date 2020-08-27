@@ -1,6 +1,6 @@
 # Emoji [Download Json](https://raw.githubusercontent.com/Katheesh/Emoji/master/emoji.json)
 
-### All Emojis collection
+### All iOS Emojis collection
 
 ```json
 {
