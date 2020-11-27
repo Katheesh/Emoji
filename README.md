@@ -1,4 +1,4 @@
-# Emoji [Download Json](https://raw.githubusercontent.com/Katheesh/Emoji/master/emoji.json)
+# Emoji [Download Json](https://raw.githubusercontent.com/Katheesh/Emoji/master/emoji.json) [Download Txt](https://raw.githubusercontent.com/Katheesh/Emoji/master/emoji.txt)
 
 ### All iOS Emojis collection
 
